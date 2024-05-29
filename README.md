@@ -8,11 +8,6 @@ Welcome to the Bash-Scripting-Codes repository! This repository contains a colle
    git clone https://github.com/MichaelJanTangalin/Shell-Scripts-Coding.git
    cd Shell-Scripts-Coding
 
-2. **Make a script executable (if not already):**:
+2. **Make a script executable**:
   ```bash
-  chmod +x script-name.sh
-
-3. **Run a script:**:
-   ```bash
-   cd Shell-Scripts-Coding
-   ./script-name.sh
+     chmod +x script-name.sh
