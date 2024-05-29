@@ -5,7 +5,7 @@ Welcome to the Bash-Scripting-Codes repository! This repository contains a colle
 
 ## Getting Started
 
-1. **Clone the repository**:
+1. **Clone the repository**::
    ```bash
    git clone https://github.com/MichaelJanTangalin/Shell-Scripts-Coding.git
    
