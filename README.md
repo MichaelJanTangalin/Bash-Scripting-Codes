@@ -10,4 +10,4 @@ Welcome to the Bash-Scripting-Codes repository! This repository contains a colle
 
 2. **Make a script executable**:
   ```bash
-     chmod +x script-name.sh
+chmod +x script-name.sh
